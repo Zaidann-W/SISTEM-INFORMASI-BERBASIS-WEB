@@ -3,6 +3,8 @@
 .env
 .env.backup
 .env.production
+LAPORAN_PROYEK_PRAKTIK_RPL.md
+*.docx
 .phpactor.json
 .phpunit.result.cache
 /.claude/
